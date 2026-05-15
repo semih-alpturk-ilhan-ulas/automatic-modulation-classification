@@ -160,15 +160,6 @@ After identifying proxy bias in short-training optimization, we retrain the top 
 - **Reference implementation:** [Richardzhangxx/AMR-Benchmark](https://github.com/Richardzhangxx/AMR-Benchmark)
 - **Dataset:** [DeepSig RadioML 2016.10A](https://www.deepsig.ai/datasets)
 
-## 👥 Authors
-
-| Name | Role |
-|---|---|
-| **Ulaş Gürses** | Training, Evaluation & Documentation Lead |
-| **İlhan Deger** | Model Development Lead |
-| **Semih Öncel** | Visualization & Analysis Lead |
-| **Alptürk İncesu** | Dataset & Preprocessing Lead |
-
 ## 📄 License
 
 [MIT](LICENSE)
