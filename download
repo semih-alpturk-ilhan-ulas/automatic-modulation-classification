@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbi
+*.nbconvert.ipynb
+
+# Project — data & artifacts (NOT in repo, too large)
+data/
+runs/
+optuna_studies/
+*.pt
+*.pth
+*.pkl
+*.npy
+
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# TensorBoard
+tb/
+events.out.tfevents.*
+
+# Drive sync artifacts
+*.tmp
+~$*
